@@ -1,0 +1,15 @@
+.box-profile {
+	border:2px solid #335c63; 
+}
+.box-monster-pay {
+	margin-top: 10px;
+}
+.bottom-pull-container {
+	bottom: 0;
+    position: fixed;
+}
+.game-log {
+	font-size: 14px;
+	overflow-y: scroll;
+	height: 250px;
+}
